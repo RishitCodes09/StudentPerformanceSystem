@@ -88,7 +88,7 @@ No external Python libraries are required.
 Clone the repository using Git:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/RishitCodes09/StudentPerformanceSystem.git
 ```
 
 Move into the project directory:
